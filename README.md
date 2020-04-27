@@ -2,7 +2,7 @@
 ------------------------------------------ HW6 ---------------------------------------
 
 Please visit:
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/AlexSm2020/hw6)
+[![GitHub license](https://img.shields.io/badge/license-NONE-blue.svg)](https://github.com/AlexSm2020/hw6)
 
 **** Description:
 Weather Forecast
@@ -30,7 +30,7 @@ To see the current and near future weather condition by searching city name
 
 ## License
 
-This project is licensed under the MIT license.
+This project is licensed under the NONE license.
 
 ## contributing
 Alex Smiley
@@ -40,4 +40,6 @@ please run the following command:
 npm test
 
 ## Questions
-<img src = "https://avatars1.githubusercontent.com/u/59942891?v=4" >
+  <img src = "https://avatars1.githubusercontent.com/u/59942891?v=4" >
+  aref.smiley@gmail.com
+

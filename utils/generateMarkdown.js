@@ -64,7 +64,9 @@ please run the following command:
 ${data.test}
 
 ## Questions
-<img src = "${data.avatar_url}" >
+  <img src = "${data.avatar_url}" >
+  ${data.emailAddress}
+
 `;
 }
 

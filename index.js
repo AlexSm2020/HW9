@@ -49,6 +49,11 @@ const questions = [
         name: "contributing",
         message: "Who is contributor?"
     },
+    {
+        type: "input",
+        name: "emailAddress",
+        message: "what is your Email address?"
+    },
     //add questions
 ];
 
